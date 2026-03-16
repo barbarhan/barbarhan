@@ -1,11 +1,24 @@
-👋 Hi, I'm Baris
+# 👋 Hi, I'm Barış Albayrak
 
-🎯 IT Engineer (3+ yrs) learning software engineering  
+**Backend & DevOps Engineer** | Sydney, Australia
 
-🛠️ Tools: Python, Linux
+Infrastructure-minded developer who builds backend systems and automates everything.
 
-📚 Currently learning: Full-stack, DevOps
+## 🏗️ What I Do
 
-🌏 Interested in automation, backend systems, and mobile apps  
+- **Backend** — Node.js, Python, REST APIs, SQLite/PostgreSQL
+- **Cloud & DevOps** — Azure (AZ-900 certified), Terraform, Docker, CI/CD
+- **Infrastructure** — Linux, monitoring & observability (Grafana, Prometheus)
+- **Mobile** — React Native (Expo)
 
-📫 [[(https://www.linkedin.com/in/bcalbayrak/)]
+## 📜 Certifications
+
+- **AZ-900** — Microsoft Azure Fundamentals
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/bcalbayrak/) • Open to backend/DevOps roles
+
+---
+
+⚡ *"I don't just use Linux — I run 12 threads of it at home."*
