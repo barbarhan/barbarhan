@@ -6,10 +6,10 @@ Infrastructure-minded developer who builds backend systems and automates everyth
 
 ## 🏗️ What I Do
 
-- **Backend** — Node.js, Python, REST APIs, SQLite/PostgreSQL
-- **Cloud & DevOps** — Azure (AZ-900 certified), Terraform, Docker, CI/CD
-- **Infrastructure** — Linux, monitoring & observability (Grafana, Prometheus)
-- **Mobile** — React Native (Expo)
+- **Backend** — Python,
+- **Cloud & DevOps** — Azure (AZ-900 certified), CI/CD
+- **Infrastructure** — Linux, monitoring & observability
+
 
 ## 📜 Certifications
 
@@ -20,5 +20,3 @@ Infrastructure-minded developer who builds backend systems and automates everyth
 [LinkedIn](https://www.linkedin.com/in/bcalbayrak/) • Open to backend/DevOps roles
 
 ---
-
-⚡ *"I don't just use Linux — I run 12 threads of it at home."*
