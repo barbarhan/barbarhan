@@ -18,7 +18,7 @@ I work with Linux, Azure fundamentals, CI/CD, monitoring, and practical app deli
 
 ## 🚀 Things I Build
 
-- **Roastpool** — a social sports scoring app for friendly competition, match history, and post-game receipts.  
+- **[Roastpool](https://roastpool.com)** — a social sports scoring app for friendly competition, match history, and post-game receipts.  
   Available on iOS
 
 - **Broiler Batch Manager** — a local-first poultry batch management app for real farm workflows.  
