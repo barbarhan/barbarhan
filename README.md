@@ -19,7 +19,7 @@ I work with Linux, Azure fundamentals, CI/CD, monitoring, and practical app deli
 ## 🚀 Things I Build
 
 - **Roastpool** — a social sports scoring app for friendly competition, match history, and post-game receipts.  
-  Expo · TestFlight · product iteration
+  iOS · TestFlight · Expo · product iteration
 
 - **Broiler Batch Manager** — a local-first poultry batch management app for real farm workflows.  
   Local-first data · operational tooling
