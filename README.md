@@ -1,28 +1,37 @@
 # 👋 Hi, I'm Barış Albayrak
 
-**Backend & DevOps Engineer** | Sydney, Australia
+**Cloud & DevOps Engineer** in Sydney, focused on infrastructure, automation, and reliable systems.
 
-Infrastructure-minded developer who builds backend systems, automation, and practical tools that ship.
+I work across Linux, cloud fundamentals, CI/CD, observability, and practical app delivery. I like building tools that are simple to run and useful in real workflows.
 
-## 🏗️ What I Do
+`Azure / AZ-900` `Linux` `CI/CD` `Automation` `Monitoring` `App delivery` `Open source`
 
-- **Cloud & DevOps** — Azure (AZ-900 certified), CI/CD, Linux, automation
-- **Backend Engineering** — APIs, data flows, reliability, developer tooling
-- **Open-source contribution** — small, useful fixes and product-minded improvements
+## 🔧 Open-source Contributions
 
-## 🔧 Recent Open-source Contributions
-
-- **OpenClaw** — fixed browser screenshot extension handling for Chrome MCP screenshots  
+- **OpenClaw** — fixed Chrome MCP screenshot extension handling.  
+  PR #74685 · browser/tooling reliability  
   <https://github.com/openclaw/openclaw/pull/74685>
-- **CrossPoint Reader** — Turkish localization and reader feature contributions  
+
+- **CrossPoint Reader** — added Turkish localization and contributed reader improvements.  
+  PRs #1192, #1487 · localization and product polish  
   <https://github.com/crosspoint-reader/crosspoint-reader/pull/1192> · <https://github.com/crosspoint-reader/crosspoint-reader/pull/1487>
 
-## 📜 Certifications
+## 🚀 Things I Build
 
-- **AZ-900** — Microsoft Azure Fundamentals
+- **Roastpool** — a social sports scoring app for friendly competition, match history, and post-game receipts.  
+  Expo · TestFlight · product iteration
+
+- **Broiler Batch Manager** — a local-first poultry batch management app for real farm workflows.  
+  Local-first data · operational tooling
+
+## 🏗️ What I Bring
+
+- **Cloud** — Azure fundamentals, infrastructure mindset
+- **DevOps** — CI/CD, Linux, monitoring, automation
+- **Delivery** — practical apps, testing, release discipline
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/bcalbayrak/) • Open to backend/DevOps roles
+[LinkedIn](https://www.linkedin.com/in/bcalbayrak/) · Open to Cloud & DevOps Engineer roles in Sydney.
 
 ---
