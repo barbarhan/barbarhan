@@ -6,7 +6,6 @@ Infrastructure-minded developer who builds backend systems and automates everyth
 
 ## 🏗️ What I Do
 
-- **Backend** — Python,
 - **Cloud & DevOps** — Azure (AZ-900 certified), CI/CD
 - **Infrastructure** — Linux, monitoring & observability
 
