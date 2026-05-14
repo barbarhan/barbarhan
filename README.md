@@ -2,9 +2,9 @@
 
 **Cloud & DevOps Engineer** in Sydney, focused on infrastructure, automation, and reliable systems.
 
-I work across Linux, cloud fundamentals, CI/CD, observability, and practical app delivery. I like building tools that are simple to run and useful in real workflows.
+I work with Linux, Azure fundamentals, CI/CD, monitoring, and practical app delivery. I like tools that are simple to run and useful in real workflows.
 
-`Azure / AZ-900` `Linux` `CI/CD` `Automation` `Monitoring` `App delivery` `Open source`
+**Focus:** Cloud · DevOps · Linux · CI/CD · Automation · Monitoring · App delivery
 
 ## 🔧 Open-source Contributions
 
