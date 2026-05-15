@@ -8,6 +8,10 @@ I work with Linux, Azure fundamentals, CI/CD, monitoring, and practical app deli
 
 ## 🔧 Open-source Contributions
 
+- **OpenClaw** — restored visible replies for WhatsApp text slash commands.<br>
+  PR #81972 · channel command reliability<br>
+  <https://github.com/openclaw/openclaw/pull/81972>
+
 - **OpenClaw** — fixed Chrome MCP screenshot extension handling.  
   PR #74685 · browser/tooling reliability  
   <https://github.com/openclaw/openclaw/pull/74685>
